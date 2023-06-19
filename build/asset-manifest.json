@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d17c1cac.css",
+    "main.js": "/static/js/main.5ba31f94.js",
+    "static/js/787.3c0ef386.chunk.js": "/static/js/787.3c0ef386.chunk.js",
+    "static/media/defence.jpg": "/static/media/defence.ec4a10ab7e601740bb4e.jpg",
+    "static/media/bg.jpg": "/static/media/bg.4ce08618a2ef3480a949.jpg",
+    "static/media/ai.png": "/static/media/ai.2d4034d4f4d39fd41f83.png",
+    "static/media/vehicle.jpg": "/static/media/vehicle.186df4a0a117b82ca24d.jpg",
+    "static/media/genAI.jpg": "/static/media/genAI.d8ba0f59fc4a517967d0.jpg",
+    "static/media/logo.jpg": "/static/media/logo.44b89704fb905b6ef398.jpg",
+    "static/media/trusted3.jpg": "/static/media/trusted3.b4ee73cc43d1e75aab76.jpg",
+    "static/media/founder.jpg": "/static/media/founder.0e0b0b5e1c4e4a5ee2e1.jpg",
+    "static/media/trusted2.jpg": "/static/media/trusted2.914abdf45127927b77c2.jpg",
+    "static/media/co-founder.jpg": "/static/media/co-founder.35a1628a21b3e01bdab6.jpg",
+    "static/media/co-founder2.jpg": "/static/media/co-founder2.19845a042926d439ffab.jpg",
+    "static/media/nlp.jpg": "/static/media/nlp.2a32001407b9925425a6.jpg",
+    "static/media/e-commerce.jpg": "/static/media/e-commerce.9789ed363a512d9cbf55.jpg",
+    "static/media/trusted1.jpg": "/static/media/trusted1.08f2f0abd06cc93e7132.jpg",
+    "index.html": "/index.html",
+    "main.d17c1cac.css.map": "/static/css/main.d17c1cac.css.map",
+    "main.5ba31f94.js.map": "/static/js/main.5ba31f94.js.map",
+    "787.3c0ef386.chunk.js.map": "/static/js/787.3c0ef386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17c1cac.css",
+    "static/js/main.5ba31f94.js"
+  ]
+}
